@@ -1,0 +1,27 @@
+[ {
+  "train_id" : "czxk",
+  "train_no" : "1892",
+  "departure_time" : null,
+  "arrival_time" : null,
+  "seats" : [ [ 0, 0, 0, 0, 0, 0 ], [ 0, 1, 0, 1, 0, 0 ], [ 0, 1, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0, 0 ] ],
+  "station_times" : {
+    "banglore" : "14:09:00",
+    "delhi" : "19:23:12",
+    "pune" : "12:09:54"
+  },
+  "stations" : [ "banglore", "jaipur", "pune" ],
+  "train_info" : "Train ID: czxk Train No: 1892"
+}, {
+  "train_id" : "bacs",
+  "train_no" : "1232",
+  "departure_time" : null,
+  "arrival_time" : null,
+  "seats" : [ [ 0, 0, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0 ] ],
+  "station_times" : {
+    "banglore" : "13:50:00",
+    "delhi" : "01:23:12",
+    "pune" : "12:00:00"
+  },
+  "stations" : [ "banglore", "delhi", "pune" ],
+  "train_info" : "Train ID: bacs Train No: 1232"
+} ]
